@@ -20,3 +20,5 @@
 
 10-back takes you back to the previous directory
 
+11-lists list all item both hidden in ./ ../ /boot
+

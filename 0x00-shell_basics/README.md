@@ -4,3 +4,5 @@
 
 2-bring_me_home changes the working directory to home directory
 
+3-listfiles list files in a long format
+

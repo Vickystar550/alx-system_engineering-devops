@@ -22,3 +22,5 @@
 
 11-lists list all item both hidden in ./ ../ /boot
 
+12-file_type name the type of file
+

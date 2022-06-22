@@ -9,3 +9,6 @@
 4-listmorefiles list files including hidden ones in long format
 
 5-listfilesdigitonly list files in current directory in a long format
+
+6-firstdirectory create a directory in /tmp directory
+

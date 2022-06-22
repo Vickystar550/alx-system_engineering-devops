@@ -12,3 +12,5 @@
 
 6-firstdirectory create a directory in /tmp directory
 
+7-movethatfile moves betty from /tmp to /tmp/my_first_directory
+

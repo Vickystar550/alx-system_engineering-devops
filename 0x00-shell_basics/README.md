@@ -16,3 +16,5 @@
 
 8-firstdelete removes betty from /tmp/my_first_directory/ 
 
+9-firstdirdeletion removes /tmp/my_first_directory/
+

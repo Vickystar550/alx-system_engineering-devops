@@ -2,3 +2,5 @@
 
 1-listit list the current diirectory contents
 
+2-bring_me_home changes the working directory to home directory
+

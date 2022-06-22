@@ -6,3 +6,5 @@
 
 3-listfiles list files in a long format
 
+4-listmorefiles list files including hidden ones in long format
+

@@ -24,3 +24,5 @@
 
 12-file_type name the type of file
 
+13-symbolic_link create a symbolic link to /bin/ls
+

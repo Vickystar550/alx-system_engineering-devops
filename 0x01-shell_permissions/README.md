@@ -14,3 +14,5 @@
 
 7-everybody adds execute permission to everyone
 
+8-James_Bond gives all permission only to other users
+

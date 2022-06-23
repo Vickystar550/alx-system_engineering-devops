@@ -30,3 +30,5 @@
 
 100-lets_move mv all upper case file to /tmp/u directory
 
+101-clean_emacs removes all emacs files that end with ~
+

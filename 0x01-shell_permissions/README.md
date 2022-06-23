@@ -18,3 +18,5 @@
 
 9-John_Doe create rwxr-x-wx permission to hello
 
+10-mirror_permission copies olleh mode to hello
+

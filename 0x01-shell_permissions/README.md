@@ -16,3 +16,5 @@
 
 8-James_Bond gives all permission only to other users
 
+9-John_Doe create rwxr-x-wx permission to hello
+

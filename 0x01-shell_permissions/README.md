@@ -10,3 +10,5 @@
 
 5-execute adds execute permission to the hello file
 
+6-multiple_permissions add multi permissions to the hello file
+

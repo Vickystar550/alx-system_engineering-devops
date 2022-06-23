@@ -20,3 +20,5 @@
 
 10-mirror_permission copies olleh mode to hello
 
+12-directory_permissions create my_dir with 751 permissions
+

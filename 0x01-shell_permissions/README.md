@@ -26,3 +26,5 @@
 
 100-change_owner_and_group change owner and group for all files and directory in current directory
 
+101-symbolic_link_permissions changes owner and group ID for symbolic link _hello
+

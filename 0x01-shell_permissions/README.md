@@ -24,3 +24,5 @@
 
 13-change_group changes group
 
+100-change_owner_and_group change owner and group for all files and directory in current directory
+

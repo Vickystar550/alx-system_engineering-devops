@@ -34,3 +34,5 @@
 
 102-tree create three directories welcome/ welcome/to and welcome/to/school/
 
+103-commas list ls -l items seperated by commas
+

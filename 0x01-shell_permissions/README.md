@@ -12,3 +12,5 @@
 
 6-multiple_permissions add multi permissions to the hello file
 
+7-everybody adds execute permission to everyone
+

@@ -4,3 +4,5 @@
 
 2-groups print current user groups
 
+3-new_owner changes a file ownership to a new user
+

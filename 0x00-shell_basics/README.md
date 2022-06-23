@@ -32,3 +32,5 @@
 
 101-clean_emacs removes all emacs files that end with ~
 
+102-tree create three directories welcome/ welcome/to and welcome/to/school/
+

@@ -28,3 +28,5 @@
 
 14-copy_html copies all html files from current working directory to parent  directory
 
+100-lets_move mv all upper case file to /tmp/u directory
+

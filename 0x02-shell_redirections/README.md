@@ -32,3 +32,5 @@
 
 21-reverse reverses the input string
 
+22-users_and_home displays all user and their home directories
+

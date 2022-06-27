@@ -16,3 +16,5 @@
 
 12-newest_files displays 10 newest files in current dierectory
 
+13-unique print out unique sorted list 
+

@@ -30,3 +30,5 @@
 
 20-hiago remove 'c' and 'C' from given word
 
+21-reverse reverses the input string
+

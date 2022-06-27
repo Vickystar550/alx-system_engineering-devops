@@ -18,3 +18,5 @@
 
 13-unique print out unique sorted list 
 
+14-findthatword find the pattern in /etc/passwd
+

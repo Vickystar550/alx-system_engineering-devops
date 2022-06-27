@@ -12,3 +12,5 @@
 
 8-cwd_state redirect the standard output of ls -la to ls_cwd_content
 
+9-duplicate_last_line duplicate the last line in iacta
+

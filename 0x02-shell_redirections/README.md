@@ -22,3 +22,5 @@
 
 15-countthatword count result from grep..
 
+17-hidethisword hide words with pattern bin
+

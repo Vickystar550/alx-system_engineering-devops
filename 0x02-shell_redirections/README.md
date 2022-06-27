@@ -26,3 +26,5 @@
 
 18-letteronly displays content of /etc/ssh/sshd_config starting with letters
 
+19-AZ replace 'A' and 'c' in given word to 'Z' and 'e' respectively
+

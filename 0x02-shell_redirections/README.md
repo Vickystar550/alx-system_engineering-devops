@@ -10,3 +10,5 @@
 
 6-third_line output only the third line of iacta
 
+8-cwd_state redirect the standard output of ls -la to ls_cwd_content
+

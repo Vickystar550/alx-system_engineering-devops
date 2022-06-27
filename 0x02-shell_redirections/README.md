@@ -28,6 +28,8 @@
 
 15-countthatword count result from grep..
 
+16-whatsnext displays lines containing the pattern "root" and 3 lines after them in /etc/passwd
+
 17-hidethisword hide words with pattern bin
 
 18-letteronly displays content of /etc/ssh/sshd_config starting with letters

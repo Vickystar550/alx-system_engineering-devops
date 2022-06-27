@@ -6,3 +6,5 @@
 
 4-lastlines output the last 10 lines of /etc/passwd
 
+5-firstlines output the first 10 lines of /etc/passwd
+

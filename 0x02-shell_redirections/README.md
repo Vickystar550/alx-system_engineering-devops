@@ -8,3 +8,5 @@
 
 5-firstlines output the first 10 lines of /etc/passwd
 
+6-third_line output only the third line of iacta
+

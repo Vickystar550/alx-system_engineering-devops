@@ -28,3 +28,5 @@
 
 19-AZ replace 'A' and 'c' in given word to 'Z' and 'e' respectively
 
+20-hiago remove 'c' and 'C' from given word
+

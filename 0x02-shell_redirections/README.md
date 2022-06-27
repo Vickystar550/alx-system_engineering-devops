@@ -14,6 +14,8 @@
 
 9-duplicate_last_line duplicate the last line in iacta
 
+10-no_more_js removes all js extentions ans files from current and subfolder
+
 12-newest_files displays 10 newest files in current dierectory
 
 13-unique print out unique sorted list 

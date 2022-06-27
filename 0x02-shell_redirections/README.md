@@ -14,3 +14,5 @@
 
 9-duplicate_last_line duplicate the last line in iacta
 
+12-newest_files displays 10 newest files in current dierectory
+

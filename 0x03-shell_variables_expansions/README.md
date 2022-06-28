@@ -22,3 +22,5 @@
 
 11-binary_to_decimal convert from binary to decimal
 
+12-combinations print all possible combinations of two letter, except oo
+

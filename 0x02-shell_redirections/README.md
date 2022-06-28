@@ -42,3 +42,5 @@
 
 22-users_and_home displays all user and their home directories
 
+101-gif file created
+

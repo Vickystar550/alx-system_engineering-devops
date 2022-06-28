@@ -3,4 +3,6 @@
 1-hello_you displays  'hello user' message where the user is the current user.
 
 2-path adds /action to PATH variables
+
+3-paths counts the numbers of directories in PATH
  

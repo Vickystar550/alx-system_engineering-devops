@@ -14,5 +14,7 @@
 
 7-create_global_variable create a global variable
 
+8-true_knowledge adds 128 with a certain env. variable
+
 9-divide_and_rule divide POWER and DIVIDE 
  

@@ -20,3 +20,5 @@
  
 10-love_exponent_breath raises BREATH to the power of LOVE and print the result
 
+11-binary_to_decimal convert from binary to decimal
+

@@ -30,3 +30,5 @@
 
 101-rot13 encode and decode text using rot13 encryption
 
+102-odd file print every line from the input starting from thr first line
+

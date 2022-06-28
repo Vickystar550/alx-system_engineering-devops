@@ -26,3 +26,5 @@
 
 13-print_float print a number with two decimal points
 
+100-decimal_to_hexadecimal converts from decimal to hexadecimal
+

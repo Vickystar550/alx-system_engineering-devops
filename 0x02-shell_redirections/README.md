@@ -46,3 +46,5 @@
 
 102-empty_casks finds all empty files and directories in the current directories and all sub-directories
 
+102-acrostic scripts decode acrostic that uses the first letter of each line
+

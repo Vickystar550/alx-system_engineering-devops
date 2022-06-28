@@ -5,4 +5,6 @@
 2-path adds /action to PATH variables
 
 3-paths counts the numbers of directories in PATH
+
+4-global_variables prints the environment variables
  

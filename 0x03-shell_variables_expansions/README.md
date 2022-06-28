@@ -7,4 +7,6 @@
 3-paths counts the numbers of directories in PATH
 
 4-global_variables prints the environment variables
+
+5-local_variables list all local variables and environment variables, and functions
  

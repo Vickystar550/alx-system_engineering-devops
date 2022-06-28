@@ -13,4 +13,6 @@
 6-create_local_variable create a local variable
 
 7-create_global_variable create a global variable
+
+9-divide_and_rule divide POWER and DIVIDE 
  

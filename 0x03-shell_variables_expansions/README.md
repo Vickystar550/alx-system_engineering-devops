@@ -28,3 +28,5 @@
 
 100-decimal_to_hexadecimal converts from decimal to hexadecimal
 
+101-rot13 encode and decode text using rot13 encryption
+
